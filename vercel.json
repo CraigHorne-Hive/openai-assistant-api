@@ -4,4 +4,3 @@
     { "src": "api/chat.js", "use": "@vercel/node" }
   ]
 }
-
